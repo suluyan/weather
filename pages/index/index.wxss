@@ -1,0 +1,206 @@
+/**index.wxss**/
+.bg{
+  background: url("../../images/bg.jpg") ;
+  background-size: 750px auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -10;
+  width:100%;
+  height:100%;
+}
+.box{
+  width: 100%;
+  height: 50rpx;
+  color:#fff;
+  padding-top: 10px;
+}
+.box .left{
+  float: left;
+}
+.add{
+  float: left;
+  margin: 0 5px;
+}
+.adr{
+  float: left;
+  font-size: 16px;
+}
+.neir{
+  height:360px;
+  width:100%;
+  color:#fff;
+}
+.con{
+  position: relative;
+}
+.wendu{
+  position: absolute;
+  left: 10px;
+  top: 20px;
+  font-size: 60px;
+}
+.qing{
+  position: absolute;
+  left: 100px;
+  top: 28px;
+}
+.shidu{
+  position: absolute;
+  top: 100px;
+  left: 10px;
+}
+.shidu view{
+  float: left;
+  font-size: 14px;
+  margin-right: 5px;
+}
+.zhil{
+  position: absolute;
+  width: 70px;
+  height: 26px;
+  top: 120px;
+  left: 10px;
+  background: rgba(0,0,0,0.2);
+  border-radius: 5px;
+  line-height: 26px;
+}
+.zhil view{
+  float: left;
+  margin:0 4px;
+  color: #fff;
+}
+.per{
+  background: url("../../images/9.png") center center;
+  background-size: 180px auto;
+  position: absolute;
+  top: 80px;
+  right: 10px;
+  width:200px;
+  height: 300px;
+}
+
+/**/
+.tody{
+  height: 60px;
+  background: rgba(0,0,0,0.4);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.tody .left{
+  width:48%;
+  float: left;
+  color: #fff;
+}
+.line1{
+  height: 22px;
+}
+.t1{
+  float: left;
+  margin: 0 4px;
+  font-size: 14px;
+}
+.tt{
+  width:30px;
+  height: 20px;
+  background: orange;
+  text-align: center;
+  border-radius: 6px;
+}
+.t2{
+  float: right;
+}
+.t3{
+  margin-top: 16px;
+  margin-left: 4px;
+}
+.lin{
+  height: 60px;
+  width:1px;
+  border-left:1px #bbb dashed; 
+  float: left;
+  margin: 0 4px;
+}
+/*24*/
+.hour{
+  width: 100%;
+  overflow-x: auto;
+  height: 95px;
+  background: rgba(0,0,0,0.4);
+  margin-bottom: 10px;
+}
+.title{
+  background: rgba(0,0,0,0.4);
+  padding-left: 10px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 30px;
+  margin-bottom: 1px;
+}
+.xian{
+  width:120%;  
+  height: 70px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+}
+.top{
+  height: 25px;
+  overflow-y: auto;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.bottom{
+  height: 20px;
+  position: absolute;
+  bottom:-20px;
+  left: 0;
+  overflow-x: auto;
+  width: 100%;
+}
+.dian{
+  float: left;
+  width: 36px;
+  height: 25px;
+  border-radius: 3px 3px 0 0;
+  margin: 0 0px 0 1px;
+  background: rgba(255, 255, 255, 0.8);
+}
+.time{
+  width: 36px;
+  font-size: 12px;
+  color:#fff;
+  float: left;
+  text-align: center;
+  margin-left: 1px;
+}
+/*day*/
+.day{
+  width:100%;
+  height: 400px; 
+  overflow-x: auto;
+}
+.bigbox{
+  height: 400px;
+  width: 120%;
+  overflow-x: auto;
+}
+.daybox{
+  width:50px;
+  height: 100%;
+  margin-right: 1px;
+  background: rgba(0,0,0,0.4);
+  color:#fff;
+  text-align: center;
+  float: left;
+}
+.m{
+  margin: 15px 0;
+}
+.maxw{
+  margin: 45px 0 20px;
+}
+.minw{
+  margin: 35px 0 30px;
+}

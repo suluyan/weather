@@ -1,0 +1,149 @@
+<view class="bg"></view>
+<view class="box">
+    <view class="left">
+        <view class="add">+</view>
+        <view class="adr">小店区 平阳路</view>
+    </view>
+</view>
+<view class="neir">
+    <view class="con">
+        <view class="wendu">-1°</view>
+        <view class="qing">晴</view>
+        <view class="shidu">
+            <view>湿度</view>
+            <view>88%</view>
+        </view>
+        <view class="zhil">
+            <view>61</view>
+            <view>良</view>
+        </view>
+       
+        <view class="per"></view>
+    </view>
+</view>
+<view class="tody">
+    <view class="left">
+        <view class="line1">
+            <view class="t1">今晚</view>
+            <view class="t1 tt">良</view>
+            <view class="t2">最低-9℃</view>
+        </view>
+        <view class="t3">晴</view>
+    </view>
+    <view class="lin"></view>
+    <view class="left">
+        <view class="line1">
+            <view class="t1">今晚</view>
+            <view class="t1 tt">良</view>
+            <view class="t2">最低-9℃</view>
+        </view>
+        <view class="t3">晴</view>
+    </view>
+</view>
+<view class="title">24小时预报</view>
+<view class="hour">
+   <view class="xian">
+        <view class="top">
+            <view class="dian"></view>
+            <view class="dian"></view>
+            <view class="dian"></view>
+            <view class="dian"></view>
+            <view class="dian"></view>
+            <view class="dian"></view>
+            <view class="dian"></view>
+            <view class="dian"></view>
+            <view class="dian"></view>
+            <view class="dian"></view>
+        </view>
+        <view class="bottom">
+            <view class="time">22:00</view>
+            <view class="time">23:00</view>
+            <view class="time">00:00</view>
+            <view class="time">01:00</view>
+            <view class="time">02:00</view>
+            <view class="time">03:00</view>
+            <view class="time">04:00</view>
+            <view class="time">05:00</view>
+            <view class="time">06:00</view>
+            <view class="time">07:00</view>
+        </view>
+   </view>
+   
+</view>
+<!--day-->
+<view class="title">15天预报</view>
+<view class="day">
+    <view class="bigbox">
+        <view class="daybox">
+            <view class="week m">周三</view>
+            <view class="riqi m">12/14</view>
+            <view class="tqqk m">多云</view>
+            <view class="maxw">2℃</view>
+            <view class="minw">-5℃</view>
+            <view class="tqqk2 m">多云</view>
+            <view class="fx m">西风</view>
+            <view class="num m">3级</view>
+        </view>
+        <view class="daybox">
+            <view class="week m">周四</view>
+            <view class="riqi m">12/14</view>
+            <view class="tqqk m">多云</view>
+            <view class="maxw">2℃</view>
+            <view class="minw">-5℃</view>
+            <view class="tqqk2 m">多云</view>
+            <view class="fx m">西风</view>
+            <view class="num m">3级</view>
+        </view>
+        <view class="daybox">
+            <view class="week m">周三</view>
+            <view class="riqi m">12/14</view>
+            <view class="tqqk m">多云</view>
+            <view class="maxw">2℃</view>
+            <view class="minw">-5℃</view>
+            <view class="tqqk2 m">多云</view>
+            <view class="fx m">西风</view>
+            <view class="num m">3级</view>
+        </view>
+        <view class="daybox">
+            <view class="week m">周三</view>
+            <view class="riqi m">12/14</view>
+            <view class="tqqk m">多云</view>
+            <view class="maxw">2℃</view>
+            <view class="minw">-5℃</view>
+            <view class="tqqk2 m">多云</view>
+            <view class="fx m">西风</view>
+            <view class="num m">3级</view>
+        </view>
+        <view class="daybox">
+            <view class="week m">周三</view>
+            <view class="riqi m">12/14</view>
+            <view class="tqqk m">多云</view>
+            <view class="maxw">2℃</view>
+            <view class="minw">-5℃</view>
+            <view class="tqqk2 m">多云</view>
+            <view class="fx m">西风</view>
+            <view class="num m">3级</view>
+        </view>
+        <view class="daybox">
+            <view class="week m">周三</view>
+            <view class="riqi m">12/14</view>
+            <view class="tqqk m">多云</view>
+            <view class="maxw">2℃</view>
+            <view class="minw">-5℃</view>
+            <view class="tqqk2 m">多云</view>
+            <view class="fx m">西风</view>
+            <view class="num m">3级</view>
+        </view>
+        <view class="daybox">
+            <view class="week m">周三</view>
+            <view class="riqi m">12/14</view>
+            <view class="tqqk m">多云</view>
+            <view class="maxw">2℃</view>
+            <view class="minw">-5℃</view>
+            <view class="tqqk2 m">多云</view>
+            <view class="fx m">西风</view>
+            <view class="num m">3级</view>
+        </view>
+        
+    </view>
+</view>
